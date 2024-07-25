@@ -145,3 +145,33 @@ h3 {
 .notification-container p {
   margin: 0;
 }
+background-color: var(--primary-color);
+  color: var(--light-color);
+  font-family: "DotGothic16", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  overflow: hidden;
+  margin: 0;
+background-color: var(--primary-color);
+  color: var(--light-color);
+  font-family: "DotGothic16", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  overflow: hidden;
+  margin: 0;
+background-color: var(--primary-color);
+  color: var(--light-color);
+  font-family: "DotGothic16", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  overflow: hidden;
+  margin: 0;
