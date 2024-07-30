@@ -138,40 +138,4 @@ h3 {
   transition: transform 0.3s ease-in-out;
 }
 
-.notification-container.show {
-  transform: translateY(-60px);
-}
-
-.notification-container p {
-  margin: 0;
-}
-background-color: var(--primary-color);
-  color: var(--light-color);
-  font-family: "DotGothic16", sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 80vh;
-  overflow: hidden;
-  margin: 0;
-background-color: var(--primary-color);
-  color: var(--light-color);
-  font-family: "DotGothic16", sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 80vh;
-  overflow: hidden;
-  margin: 0;
-background-color: var(--primary-color);
-  color: var(--light-color);
-  font-family: "DotGothic16", sans-serif;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 80vh;
-  overflow: hidden;
-  margin: 0;
+.
